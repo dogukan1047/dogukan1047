@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Merhaba 👋, ben Doğukan</h1>
+<h1 align="center">Merhaba 👋, ben Dogukan</h1>
 
 
 - 🔭 Şu anda **Java,Golang üzerinde çalışıyorum **

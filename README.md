@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Merhaba 👋, ben Dogukan</h1>
 
 

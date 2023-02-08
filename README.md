@@ -10,7 +10,6 @@
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left" >
- <a href="https://www.linkedin.com/in/dogukanpolatel2/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cengizcmataraci" height="30" width="30" /></a>
 <a href="https://instagram.com/dogukanpltl" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="dogukanpltl" height="30" width="40" /></a>
 </p>
 

@@ -22,19 +22,7 @@ My goal is to build a career in the data science field by continuing to develop 
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="match parent" width="match parent">
 
-- 🌱 I’m currently learning data science  
-  
-
-- ⚡ Fun fact: Lifelong learning  
-
-
-
-
-
-</td></tr></table>  
 
 <br/>  
 

@@ -12,7 +12,7 @@
 </a>  
   
 
-Hello, I am a software engineering student currently in my third year of studies. My interest in data science has led me to focus on developing my skills in this field. I am constantly on a learning journey to improve my knowledge in programming languages, data analysis tools, and data mining techniques.
+Hello, I am a software engineering student currently in my 4 year of studies. My interest in data science has led me to focus on developing my skills in this field. I am constantly on a learning journey to improve my knowledge in programming languages, data analysis tools, and data mining techniques.
 
 While I have been involved in several projects, recently, I have been working particularly on database design and data management. Additionally, I am striving to make large datasets more understandable by using data visualization tools.
 
